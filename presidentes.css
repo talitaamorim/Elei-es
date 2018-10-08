@@ -1,0 +1,55 @@
+.presi
+{
+float: left;
+font-family: Open Sans;
+font-size: 3rem;
+letter-spacing: -.20625rem;
+line-height: 3rem; 
+}
+.noven
+{
+	float: right;
+	font-family: Open Sans; 
+	color: #666;
+	font-size: 1.5rem;
+	letter-spacing: -.10625rem
+}
+p
+{
+	color: #666
+}
+
+h3
+{
+	font-family: Open Sans; 
+}
+
+img	
+{
+	height: 3.875rem;width: 3.875rem; border-radius: 100px;
+}
+
+.nome
+{
+	float: left;
+}
+
+.num
+{
+	float: right;
+}
+.ima
+{
+	float: left;
+}
+
+.le
+{
+	float: right;
+}
+
+.le
+{
+	font-family: Open Sans;
+	color: black;
+}
